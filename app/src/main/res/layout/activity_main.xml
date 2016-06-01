@@ -17,10 +17,10 @@
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
-  <!--  <fragment
+  <fragment
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:name="com.example.sooheib.fragments.FragmentA"
         android:id="@+id/fragment"
-        android:layout_gravity="center_horizontal" />-->
+        android:layout_gravity="center_horizontal" />
 </LinearLayout>
